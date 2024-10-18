@@ -1,0 +1,13 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Courier New", Courier, monospace;
+}
+
+hr {
+  width: 590px;
+}
+
+button {
+  margin-top: 15px;
+}
